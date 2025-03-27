@@ -24,8 +24,8 @@ Vani is a powerful, automated AI assistant that helps you manage your daily task
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd vani-ai-assistant
+git clone https://github.com/Arsh227/VANI-for-windows-.git
+cd VANI-for-windows-
 ```
 
 2. Install required packages:
@@ -68,4 +68,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
