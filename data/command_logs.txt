@@ -1,0 +1,10 @@
+[2025-02-05 01:13:06] Command: open chrome (Exact Match)
+  Original Input: 'open chrome'
+  Status: Success
+  Action: start chrome (Confidence: 1.00)
+==================================================
+[2025-02-05 01:13:06] Command: open spotify (Exact Match)
+  Original Input: 'launch spotify'
+  Status: Success
+  Action: start spotify (Confidence: 1.00)
+==================================================

@@ -1,0 +1,15 @@
+edge-tts
+pygame
+pyaudio
+vosk
+spotipy
+pyautogui
+keyboard
+pyttsx3
+google-generativeai
+python-dotenv
+textblob
+screen-brightness-control
+pycaw
+win32gui
+pillow

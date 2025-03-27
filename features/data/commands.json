@@ -1,0 +1,32 @@
+{
+    "open chrome": {
+        "phrase": "open chrome",
+        "action": "start chrome",
+        "description": "Open Google Chrome",
+        "is_system": true
+    },
+    "open spotify": {
+        "phrase": "open spotify",
+        "action": "start spotify",
+        "description": "Launch Spotify",
+        "is_system": true
+    },
+    "open discord": {
+        "phrase": "open discord",
+        "action": "start discord",
+        "description": "Start Discord",
+        "is_system": true
+    },
+    "shutdown pc": {
+        "phrase": "shutdown pc",
+        "action": "shutdown -s -t 0",
+        "description": "Shutdown computer",
+        "is_system": true
+    },
+    "restart pc": {
+        "phrase": "restart pc",
+        "action": "shutdown -r -t 0",
+        "description": "Restart computer",
+        "is_system": true
+    }
+}

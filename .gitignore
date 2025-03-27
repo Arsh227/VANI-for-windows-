@@ -1,0 +1,68 @@
+# Environment and secrets
+.env
+*.env
+.cache/
+.spotify_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.cursor/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Cache directories
+.cache/
+camera_output/
+screenshots/
+recorded_videos/
+captured_images/
+tts_cache/
+
+# Local configuration
+.env
+.spotify_cache
+conversation_memory.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride 
